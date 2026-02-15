@@ -1,0 +1,99 @@
+{
+  "counters": {
+    "u_column": 1,
+    "u_row": 1,
+    "u_content_html": 1
+  },
+  "body": {
+    "id": "body",
+    "rows": [
+      {
+        "id": "row_1",
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "id": "column_1",
+            "contents": [
+              {
+                "id": "html_1",
+                "type": "html",
+                "values": {
+                  "html": "<body class=\"clean-body u_body\" style=\"margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #f3eed9;color: #000000\">\n<!--[if IE]><div class=\"ie-container\"><![endif]-->\n<!--[if mso]><div class=\"mso-container\"><![endif]-->\n<table cellpadding=\"0\" cellspacing=\"0\" id=\"u_body\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #f3eed9;width:100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\">\n<!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td align=\"center\" style=\"background-color: #f3eed9;\"><![endif]-->\n<div class=\"u-row-container\" style=\"padding: 0px;background-color: transparent\">\n<div class=\"u-row\" style=\"margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;\">\n<div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n<!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"padding: 0px;background-color: transparent;\" align=\"center\"><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"width:600px;\"><tr style=\"background-color: #ffffff;\"><![endif]-->\n<!--[if (mso)|(IE)]><td align=\"center\" width=\"600\" style=\"width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\" valign=\"top\"><![endif]-->\n<div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n<div style=\"height: 100%;width: 100% !important;\">\n<!--[if (!mso)&(!IE)]><!--><div style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tr>\n<td align=\"center\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"Flowers\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1627742948528-Top.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 600px;\" title=\"Flowers\" width=\"600\"/>\n</td>\n</tr>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_2\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-font-size\" style=\"margin: 0px; color: #34495e; line-height: 140%; text-align: center; word-wrap: break-word; font-family: comic sans ms,sans-serif; font-size: 26px; font-weight: 400;\">Join Us For A Special</h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #ffffff;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<span>\u00a0</span>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_3\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tr>\n<td align=\"center\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"Easter\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1627743037341-Banner.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 55%;max-width: 319px;\" title=\"Easter\" width=\"319\"/>\n</td>\n</tr>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_3\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-font-size\" style=\"margin: 0px; color: #34495e; line-height: 140%; text-align: center; word-wrap: break-word; font-family: comic sans ms,sans-serif; font-size: 28px; font-weight: 400;\"><strong>Easter</strong></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_4\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-font-size\" style=\"margin: 0px; line-height: 140%; text-align: center; word-wrap: break-word; font-family: comic sans ms,sans-serif; font-size: 22px; font-weight: 400;\">GET - TOGETHER</h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<!--[if mso]><![endif]-->\n<div align=\"center\">\n<!--[if mso]><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"https://laravelmail.com/\" style=\"height:38px; v-text-anchor:middle; width:131px;\" arcsize=\"10.5%\"  stroke=\"f\" fillcolor=\"#f47b82\"><w:anchorlock/><center style=\"color:#FFFFFF;\"><![endif]-->\n<a class=\"v-button v-font-size\" href=\"https://laravelmail.com/\" style=\"box-sizing: border-box; display: inline-block; text-decoration: none; text-size-adjust: none; text-align: center; color: rgb(255, 255, 255); background: rgb(244, 123, 130); border-radius: 4px; width: auto; max-width: 100%; word-break: break-word; overflow-wrap: break-word; font-size: 14px; line-height: inherit;\" target=\"_blank\"><span style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14px; line-height: 16.8px;\"><strong>Register Now</strong></span></span>\n</a>\n<!--[if mso]></center></v:roundrect><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px 10px;font-family:arial,helvetica,sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #ffffff;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<span>\u00a0</span>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_6\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-font-size\" style=\"margin: 0px; color: #34495e; line-height: 140%; text-align: center; word-wrap: break-word; font-family: comic sans ms,sans-serif; font-size: 22px; font-weight: 400;\">Hosted By</h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_4\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tr>\n<td align=\"center\" style=\"padding-right: 0px;padding-left: 0px;\">\n<a href=\"https://laravelmail.com/\" style=\"color: rgb(0, 0, 238); text-decoration: underline; line-height: inherit;\" target=\"_blank\"><img align=\"center\" alt=\"Logo\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1627743487680-Logo.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 20%;max-width: 116px;\" title=\"Logo\" width=\"116\"/>\n</a>\n</td>\n</tr>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_5\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">Saturday, 15th September at 1:00 PM [Address] San Diego</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<div class=\"v-font-size\" style=\"font-size: 14px; color: #34495e; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%; margin: 0px;\"><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14px; line-height: 19.6px;\">Call Us: +1 234 56987</span></p><p style=\"font-size: 14px; line-height: 140%; margin: 0px;\"><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14px; line-height: 19.6px;\">Email Us: info@yourdomain.com</span></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tr>\n<td align=\"center\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"Flowers\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1627743565489-Bottom.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 600px;\" title=\"Flowers\" width=\"600\"/>\n</td>\n</tr>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>\n</div>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</div>\n<!--[if (mso)|(IE)]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if mso]></div><![endif]-->\n<!--[if IE]></div><![endif]-->\n</body>",
+                  "containerPadding": "10px",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "padding": "0px",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      }
+    ],
+    "values": {
+      "backgroundColor": "#e7e7e7",
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": false,
+        "center": true,
+        "cover": false
+      },
+      "contentWidth": "600px",
+      "contentAlign": "center",
+      "fontFamily": {
+        "label": "Arial",
+        "value": "arial,helvetica,sans-serif"
+      },
+      "preheaderText": "",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 16
+}
